@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # GridView - How to restore the expanded group rows state after a page is refreshed
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t360561)**
+**[[Run Online]](https://codecentral.devexpress.com/t360561/)**
 <!-- run online end -->
 
 
